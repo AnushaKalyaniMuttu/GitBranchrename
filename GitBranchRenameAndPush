@@ -1,0 +1,2 @@
+git branch m oldbranchname newbranchname
+git push newbranchname
